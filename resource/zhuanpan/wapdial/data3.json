@@ -1,0 +1,14 @@
+{
+  "prize": {
+    "id": 1,
+    "customerId": 25469,
+    "acitivityId": 1,
+    "prizeId": 3,
+    "drawType": 1,
+    "drawLevel": 3,
+    "status": 1,
+    "drawTime": 1474983907005
+  },
+  "code": 0,
+  "msg": "恭喜中奖"
+}

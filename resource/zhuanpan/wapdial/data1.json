@@ -1,0 +1,66 @@
+{
+  "prizeList": [
+    {
+      "id": 1,
+      "customerId": 25469,
+      "mobile": "13521923437",
+      "acitivityId": 1,
+      "prizeId": 4,
+      "prizeName": "500M流量",
+      "drawType": 1,
+      "drawLevel": 4,
+      "status": 1,
+      "drawTime": "2016-09-26"
+    },
+    {
+      "id": 2,
+      "customerId": 25469,
+      "mobile": "13521923437",
+      "acitivityId": 1,
+      "prizeId": 5,
+      "prizeName": "100元话费",
+      "drawType": 1,
+      "drawLevel": 5,
+      "status": 1,
+      "drawTime": "2016-09-26"
+    },
+    {
+      "id": 3,
+      "customerId": 25469,
+      "mobile": "13521923437",
+      "acitivityId": 1,
+      "prizeId": 7,
+      "prizeName": "小米空气净化器2",
+      "drawType": 1,
+      "drawLevel": 7,
+      "status": 1,
+      "drawTime": "2016-09-26"
+    },
+    {
+      "id": 4,
+      "customerId": 25469,
+      "mobile": "13521923437",
+      "acitivityId": 1,
+      "prizeId": 2,
+      "prizeName": "58元代金券",
+      "drawType": 2,
+      "drawLevel": 1,
+      "status": 1,
+      "drawTime": "2016-09-27"
+    },
+    {
+      "id": 5,
+      "customerId": 25469,
+      "mobile": "13521923437",
+      "acitivityId": 1,
+      "prizeId": 2,
+      "prizeName": "58元代金券",
+      "drawType": 2,
+      "drawLevel": 1,
+      "status": 1,
+      "drawTime": "2016-09-27"
+    }
+
+  ],
+  "prizeCount": 7
+}
