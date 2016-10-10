@@ -5,11 +5,12 @@ date:   2016-10-10 15:50:27 +0800
 categories: jekyll update
 ---
 
-####使用方法
+#### 使用方法
 载入 JavaScript 文件
 
 	HTML Code
 	<script src="qrcode.js"></script>
+
 DOM 结构
 
 	HTML Code
@@ -35,7 +36,7 @@ DOM 结构
 	qrcode.clear();
 	qrcode.makeCode('new content');
 
-####参数说明
+#### 参数说明
 	
 	Javascript Code
 	new QRCode(element, option)
@@ -63,7 +64,7 @@ DOM 结构
 	</tbody>
 </table>
 
-####option 参数说明
+#### option 参数说明
 <table>
 	<thead>
 		<tr>
@@ -106,9 +107,9 @@ DOM 结构
 	</tbody>
 </table>
 
-####API 接口
+#### API 接口
 
-<table>
+<table border=1>
 	<thead>
 		<tr>
 			<th>名称</th>
