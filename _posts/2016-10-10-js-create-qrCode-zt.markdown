@@ -129,8 +129,8 @@ DOM 结构
 </table>
 
 
-
-资源地址：https://github.com/ddshenbiannqd/ddshenbian_blog/tree/gh-pages/resource/qrCode
+* 参考链接：[http://code.ciaoca.com/javascript/qrcode/](http://code.ciaoca.com/javascript/qrcode/)
+* 资源地址：[https://github.com/ddshenbiannqd/ddshenbian_blog/tree/gh-pages/resource/qrCode](https://github.com/ddshenbiannqd/ddshenbian_blog/tree/gh-pages/resource/qrCode)
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
