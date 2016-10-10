@@ -1,4 +1,9 @@
-
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2016-10-02 05:36:27 +0800
+categories: 兼容IE8轮播插件
+---
 
  兼容IE8的轮播效果
 ---
