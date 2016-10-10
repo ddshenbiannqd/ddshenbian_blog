@@ -1,26 +1,17 @@
+
+
+ 兼容IE8的轮播效果
 ---
-layout: post
-title:  "兼容IE8的轮播效果-只有你想不到，没有它做不到。关键是兼容IE8呀"
-date:   2016-10-09 05:36:27 +0800
-categories: jekyll update
----
-jquery.SuperSlide.2.1.1.js
+`jquery.SuperSlide.2.1.1.js`是一款兼容IE8的轮播插件，它里面包含多种轮播效果，可以满足项目的基本需求。如果实在有较为个性的需求，亦可在此插件基础之上进行修改。
+
+引入插件JS
+----
+`jquery.SuperSlide.2.1.1.js`需要注意，引入插件之前先引入jquery.
+依据项目不同轮播效果，编写不同样式
+----
+调用插件
+----
+`<script type="text/javascript">jQuery(".picFocus").slide({ mainCell:".bd ul",prevCell:".sPrev",nextCell:".sNext",effect:"left",autoPlay:false,effect:"leftLoop" });</script>
+`根据不同需求修改对应参数即可
 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
