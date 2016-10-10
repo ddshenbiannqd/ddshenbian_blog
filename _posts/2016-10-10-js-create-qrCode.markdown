@@ -109,7 +109,7 @@ DOM 结构
 
 #### API 接口
 
-<table border=1>
+<table>
 	<thead>
 		<tr>
 			<th>名称</th>
