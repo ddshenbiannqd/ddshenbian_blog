@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "first demo fzl"
+date:   2016-10-11 05:36:27 +0800
+categories: jekyll update
+---
+
+
+# 傅卓林
+
+
+
+
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
